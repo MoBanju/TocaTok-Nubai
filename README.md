@@ -1,2 +1,2 @@
-# TocaTok-Nubai
+# TocaTok Nubai
 A karting game
